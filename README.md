@@ -215,6 +215,8 @@
 
 * [FLUX.1](https://www.basedlabs.ai/tools/flux1)：是一个全新的开源图像生成模型。它由 Black Forest Labs 开发，该团队也是 Stable Diffusion 的幕后团队。
 
+* [Seedream AI Studio](https://seedream4.video/)：字节跳动旗下多模型 AI 图像生成平台，集成 Seedream 5.0/4.5/4.0 模型，支持一键图生视频（Kling 2.1 驱动）。有免费基础版。
+
 ### AI 视频生成
 
 * [Runway Gen-2](https://app.runwayml.com/)：视频生成领域的热门产品。它提供了多种 AI 视频生成模型，包括文生视频、图文生成视频、图生视频、风格化渲染、局部叠加渲染、3D 模型渲染等功能。有免费额度。[官网](https://research.runwayml.com/gen2)
