@@ -135,6 +135,7 @@
 	* [Pi](https://pi.ai/)：人性化的 AI 对话助手。
 	* [Hume AI](https://www.hume.ai/)：能识别语音情绪的 AI 模型，提供 API。提供了一个 [在线演示](https://demo.hume.ai/)，可以与 AI 机器人语音对话。
 * [Artificial Analysis](https://artificialanalysis.ai/)：大模型性能多维度测评排行榜。
+* [InferenceBench](https://inferencebench.io)：大模型推理成本与性能对比排行榜，涵盖模型、GPU 与云服务商的价格、吞吐、上下文窗口与投资回报（ROI）分析。
 
 
 
